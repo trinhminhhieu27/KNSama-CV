@@ -7,6 +7,7 @@ img,
 div,
 input,
 textarea,
+b,
 p,
 h1,
 h2,
@@ -84,6 +85,11 @@ header .column h1 {
 header .column p {
   font-size: 1rem;
   color: var(--gray);
+}
+
+header .column b {
+  font-size: 1rem;
+  color: var(--black);
 }
 
 header .column ul {
